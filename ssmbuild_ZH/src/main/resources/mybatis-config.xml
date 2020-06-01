@@ -8,7 +8,7 @@
 
 <!--    别名设置-->
     <typeAliases>
-        <package name="com.jarod.dao"/>
+        <package name="com.jarod.pojo"/>
     </typeAliases>
 
     <mappers>
